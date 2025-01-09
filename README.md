@@ -1,2 +1,2 @@
 # GooseGooseFox
-JC4004 Assignment 
+Assignment for Computational Intelligence course 
